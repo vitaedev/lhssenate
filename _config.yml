@@ -10,7 +10,7 @@ url: "http://vitaedev.com/"
 baseurl: "/lhssenate"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /lhssenate/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /lhssenate/img/logos/gavel.png
 
 # Tertiary Parameters
 github_username:  projectpages
