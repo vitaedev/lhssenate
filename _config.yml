@@ -7,7 +7,7 @@ url: "http://vitaedev.com/lhssenate/"
 
 
 # Secondary Parameters
-baseurl: ""
+baseurl: 
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
