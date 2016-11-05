@@ -1,13 +1,13 @@
 # Site settings
 title: LHS Senate
 description: "A Unique System of High School Government"
-url: "http://vitaedev.com/lhssenate"
+url: "http://vitaedev.com"
 
 
 
 
 # Secondary Parameters
-baseurl: ""
+baseurl: "lhssenate"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
