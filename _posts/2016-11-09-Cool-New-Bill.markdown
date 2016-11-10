@@ -10,4 +10,4 @@ visualworkflow: true
 
 
 <h2>Check out this great new bill</h2>
-It is cool
+It is cool!
