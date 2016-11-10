@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      dsfjsldkfjasd;lkfjasd;lf
+author:     Derik Kauffman
+tags: 		cool bill senate transportation
+subtitle:   The school will now replace all staircases with fire poles
+category:  project1
+visualworkflow: true
+---
+
+
+<h2>Check out this asdfjaslfkjasd;lfkjs;f new bill</h2>
+It is cool!saflsdj
