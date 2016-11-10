@@ -13,10 +13,10 @@ headercolor: "#FFFFFF"
 logo: /lhssenate/img/logos/gavel.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
-g-analytics: UA-75881392-1
+github_username:  vitaedev
+project_repository: lhssenate
+disqus_shortname: lhssenate
+g-analytics: UA-75881392-1 #not really?
 altmetric: true
 
 # Build settings
