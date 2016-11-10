@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      New Post
-author:     Ahmet Cecen
+author:     Charles-Louis de Secondat
 tags: 		post template
 subtitle:  	Some Short Description of Post
 category:  project1
