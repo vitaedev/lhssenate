@@ -13,7 +13,7 @@ layout: page
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta" style="margin-bottom:5px">Posted by {{ b.author }} on {{ b.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta" style="margin-bottom:5px">Passed {{ b.passed }}</p>
 	<div class="notepad-index-post-tags" style="">
 		{% for tag in b.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 	</div>
