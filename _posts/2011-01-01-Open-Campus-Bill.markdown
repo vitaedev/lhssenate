@@ -1,7 +1,7 @@
 ---  
 layout:   bill
 category: bills
-title:   2011-1 Open Campus Bill 
+title:   2011-1 Open Campus Billsdsdsa 
 year:    2011-2012
 summary: Remove community service requirement for open campus.
 sponsors: Derik Kauffman and James Buchanan
