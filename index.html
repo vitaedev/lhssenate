@@ -1,6 +1,19 @@
 ---
 layout: page
 ---
+
+{% if page.url == '/' %}
+
+<p>Welcome to the Lexington High School Student-Faculty Senate! The Senate meets after school on Wednesdays in the Library Media Center.</p>
+
+<p>We implement school-wide policies on a number of issues, from things as mundane as placing extra benches around the school to changes as significant as eliminating the community service requirement for open campus, allowing students to eat in the Quad, or determining what information will be printed on transcripts.</p>
+
+<p>All meetings are open to the public! If you want to change something about the school, we would love to hear and discuss your ideas.</p>
+
+<hr class="small" style="border-color:rgb(6, 35, 86)">
+
+{% endif %}
+
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
