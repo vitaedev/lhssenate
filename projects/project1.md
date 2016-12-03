@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Constitution"
-description: "Student-Faculty Senate Constitution"
+title: "asdfkjl"
+description: "tis the season for overeating"
 header-img: "img/home-bg.jpg"
 category: project1
 ---
