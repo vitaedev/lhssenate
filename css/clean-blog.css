@@ -138,13 +138,16 @@ hr.small {
   }
 }
 .intro-header {
-  background-color: #808080;
+  background-image: url('/lhssenate/img/home-bg.jpg');
+  background: linear-gradient(-5deg, rgba(0, 7, 107, 0.6) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(135deg, rgba(247, 252, 255, 0.17) 0%,rgb(6, 35, 86) 100%), url(/lhssenate/img/home-bg.jpg) no-repeat center;
+
+/*  background-color: #808080;
   background: no-repeat center center;
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
-  -o-background-size: cover;
+  -o-background-size: cover;*/
   margin-bottom: 20px;
 }
 @media only screen and (min-width: 768px) {
