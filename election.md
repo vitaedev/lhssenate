@@ -4,11 +4,10 @@ title: "Election Procedures"
 description: "Information on Student Elections (updated 9/14)"
 header-img: "img/home-bg.jpg"
 ---
-<div class="small">
 Most offices are voted on in the spring.&nbsp; Freshmen positions are
 voted on in the fall.&nbsp; Students must complete nomination papers to
 become a candidate for any elected student office. <br>
-<br>
+<div class="small">
 <span style="font-weight: bold;">Nomination Procedure</span><br>
 1)&nbsp;&nbsp; &nbsp;Pick up nomination papers at the designated location.<br>
 2)&nbsp;&nbsp; &nbsp;Obtain the requisite number of signatures (50) from your classmates.<br>
