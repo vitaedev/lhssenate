@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Frequently Asked Questions"
+title: "FAQ"
 description: "aaaa formattinggg"
 header-img: "img/home-bg.jpg"
 ---
