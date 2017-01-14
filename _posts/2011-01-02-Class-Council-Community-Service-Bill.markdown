@@ -12,6 +12,10 @@ visualworkflow: true
 
 All class councils at Lexington High School shall be required to sponsor at least one event over the course of each academic year organized specifically for the purpose of contributing to a community service effort and open to class members. The activity chosen by each class may be used to meet the community service graduation requirement. Class Councils must submit a plan to meet this requirement to the Senate Social Action Committee by February 1 of each year, and must complete the project by June 1 and submit a report to the Social Action Committee by that date. 
 
+1. I am cool
+2. I am cool
+3. I am very cool
+
 This bill replaces the 5-89 Class Service Project Bill. 
 
 
