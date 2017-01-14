@@ -6,16 +6,16 @@ year:           2016-2017
 summary:        Blargh summary summary simmary.
 sponsors:       LHS Student-Faculty Senate
 passed:         pn May  7, 2011
-tags:           test-bill DIY
+tags:           test-bill XBD
 visualworkflow: true
 ---
 
 
-hPUdv7jGkkSnOeZMSPma ZrIGecnIF0PvFa 73NpKUocemCFOsKBCOcpahCqoXoeIoKjrnZAKvQJMIUUA2KbeMJiOzJ5yT2g 
+Vj65UxgRqoh0VTYaLs9K 3RWxaaEJJM0XLQ FQl100URFRipnmRDFMoMK52qWNmLORaie6cl7f2pYrHwVi96JeChDV2z8FyO 
 
 
 
 
 Rationale
 ---------
-The Senate currently feels like zQssfJFLVuoW.
+The Senate currently feels like yimnCBFxtXPU.

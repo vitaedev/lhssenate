@@ -6,16 +6,16 @@ year:           2016-2017
 summary:        Blargh summary summary simmary.
 sponsors:       LHS Student-Faculty Senate
 passed:         pn December  7, 2011
-tags:           test-bill bQu
+tags:           test-bill HBR
 visualworkflow: true
 ---
 
 
-kHR2jiSlpjzQdaLZfNJ6 Aj3qUaWTOmF54W VdzX058i4a8pFaRL6MmK9mDZRPL7YBVjWz1sZiApOofaiF21og9G0uqfHfbf 
+Oq1yAGaUDSMom3PQQrZF ZoUxuAVOoAmJKo lqcCqAsEwd93X2Cobfjm4OO8k6HPeeEbPqW3DgWdELFHh4zKEwe8Lx79Fdsd 
 
 
 
 
 Rationale
 ---------
-The Senate currently feels like FKgQNMsScUOZ.
+The Senate currently feels like RDSxqpoRtiBn.

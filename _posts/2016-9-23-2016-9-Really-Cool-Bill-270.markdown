@@ -6,16 +6,16 @@ year:           2016-2017
 summary:        Blargh summary summary simmary.
 sponsors:       LHS Student-Faculty Senate
 passed:         pn September  7, 2011
-tags:           test-bill iCC
+tags:           test-bill gBB
 visualworkflow: true
 ---
 
 
-0BN0seSnofkw7axcojIH vV41lQ0M0Qwuxp NiJlSujliNMvKny1D6dG5xg8n3EluMFjrnUzET0QhzKUVcfcxe0i2BJwIz2b 
+idrOoXktnUJL62NxwXdp CE4izhCm7LgjPt pdMgaY3AQbxa3UmcEQOcjtoXE4MQKz5RUrUx0eNJJKb6PWJSjmcI0r7rNyl9 
 
 
 
 
 Rationale
 ---------
-The Senate currently feels like wIjtIObTKzAU.
+The Senate currently feels like IaxyYGgNOnww.
