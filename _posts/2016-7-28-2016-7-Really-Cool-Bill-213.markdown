@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-7 Really Cool Bill 213
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn July  7, 2011
+tags:           test-bill Ndi
+visualworkflow: true
+---
+
+
+aenXlbaIA8rApy4nWRYQ pMfYAiIR86M2nx FH9MSqldTMh2e9mCCpbu9WcieRBCxcSFT5qL0U3l0sQS6G02mebBvL6kGvTk 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like CRyVdWRfuvrH.

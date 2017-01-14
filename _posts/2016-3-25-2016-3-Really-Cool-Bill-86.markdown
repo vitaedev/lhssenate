@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-3 Really Cool Bill 86
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn March  7, 2011
+tags:           test-bill Rqv
+visualworkflow: true
+---
+
+
+5ZoYnYR5WbHrl6nqoroo EvkOFsTWhHp8So GH2DjZFfnmsTbDDnKMwvc60cpiaJ9HI8Wjuv0zU1YYjvuHpo5XMP2hWdy9SJ 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like PfIrzsJnWSMo.

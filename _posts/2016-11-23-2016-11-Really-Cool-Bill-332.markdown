@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-11 Really Cool Bill 332
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn November  7, 2011
+tags:           test-bill Ajt
+visualworkflow: true
+---
+
+
+hNDnukpMg6GPKKwu3QhL oOipBLn5yTGziO cLL31eVA893b1c9QhHc0wxCgkXYCKWlU2hPOya13S73ZdOgW3VrNJZg4MKCK 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like EmVKigbzyTaK.

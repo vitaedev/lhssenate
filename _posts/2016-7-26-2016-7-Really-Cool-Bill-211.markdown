@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-7 Really Cool Bill 211
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn July  7, 2011
+tags:           test-bill SnK
+visualworkflow: true
+---
+
+
+TuWgCrNSY3y9pfgbYeD9 3JuRCwZwEt6usG gp1PxZhg6lVdWGQ4NRgjAYNBXXMzhohYh4B7QqxFkl2cQ6608lEhsuqxt03S 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like xqEybktrYKhg.

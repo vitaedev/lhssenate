@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-12 Really Cool Bill 344
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn December  7, 2011
+tags:           test-bill Apc
+visualworkflow: true
+---
+
+
+aBeotelwtgJXyKOAroJ8 EANjGS430o6rEZ KpjWXYP0HikId0eQzkUDSnqM6Ocnm5WMMfBt49zMW3ZeW6FDcHx3ahKxNvzs 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like iYNTTAQFPPDE.

@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-2 Really Cool Bill 53
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn February  7, 2011
+tags:           test-bill Mfo
+visualworkflow: true
+---
+
+
+Vas9PkxHLtcWE5sLyWuU G0p2vaXcvWYPGV wc5dSruZ8M3S6ffJg9hsXB0gmIDUqpRE9MIRZgA8HcGJh2SQI7Z0uXPgXDQe 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like lfwwNkfDdpHg.

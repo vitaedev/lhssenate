@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-2 Really Cool Bill 45
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn February  7, 2011
+tags:           test-bill djm
+visualworkflow: true
+---
+
+
+x9824ZPr6fACZRpVkkx6 VHakRMLt9hZVQ6 8xfjGGxw4bxy65ydxL5KUjBgKPHQlX5okaNAHuc42vYO54PaQ2vChodgWp5g 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like QEJwxOckXkgB.

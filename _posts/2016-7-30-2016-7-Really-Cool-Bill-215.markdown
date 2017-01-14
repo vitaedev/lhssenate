@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-7 Really Cool Bill 215
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn July  7, 2011
+tags:           test-bill dhU
+visualworkflow: true
+---
+
+
+3g59ArLjT2l0hYV7bPIR o6klOvLdeQfC7N zslyCwLSuMPPoDa8B7dxBfKeGucGNfyzX1H2ouiBQbstPvKtyPleiC8PV83H 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like RQHFiQXVXrgj.

@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-6 Really Cool Bill 162
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn June  7, 2011
+tags:           test-bill jHU
+visualworkflow: true
+---
+
+
+3bGe0hkusFKH3bnwWyex YpaNnHGRIosrpH BBiMDTjSkplDGqrzIWqbEsq8ChzqB8Sn8mtWWth3bSaYnXfxCh3BGz8kP6ad 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like OkQvArVaHZNz.

@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-8 Really Cool Bill 245
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn August  7, 2011
+tags:           test-bill HMv
+visualworkflow: true
+---
+
+
+9RbI9RQw3Orn5EKuKQYy Hurt4OtStCKgp4 iWHXoiRv6JBeMkI8pBRPrtv2cxHAFz9YbwNrC3rqfZF7wKNqpOrEqQAH5bs4 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like xfnfVmSiIeSk.

@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-1 Really Cool Bill 22
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn January  7, 2011
+tags:           test-bill yro
+visualworkflow: true
+---
+
+
+LX3I1xDfolB1lWTFekxy gZ9xVO3ksxEgaX bGRP63lWOHKrWnUvUHPPcOfb6PXCiPyzPPpaXJBVNwXmY3jfIFeO4CEYPRDB 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like JqwCHbPtRgSm.

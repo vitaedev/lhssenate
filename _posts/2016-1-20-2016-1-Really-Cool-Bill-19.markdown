@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-1 Really Cool Bill 19
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn January  7, 2011
+tags:           test-bill nfv
+visualworkflow: true
+---
+
+
+SD4N9HJ3lPpxFcGqi1Wx bAFNWje78ruPOF 6QNszfOn7KdlUP5KdfC6lnV9IJozSAwRRfR9uYHcy2tD8rFPoVHNt3rQqhXl 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like mjVcfAoYodGg.

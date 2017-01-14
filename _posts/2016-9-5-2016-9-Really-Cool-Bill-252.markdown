@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-9 Really Cool Bill 252
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn September  7, 2011
+tags:           test-bill btz
+visualworkflow: true
+---
+
+
+zoMKaowV5wWJrCSUno5E BOcGOu5WnR9TE0 kuwATRc63cY5Sx6qfFQd9hoX3DU82TLgYqOBi6THV8u66EuNxpkLA2nAgAXg 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like WHYXYIIUKFVP.

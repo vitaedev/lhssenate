@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-7 Really Cool Bill 194
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn July  7, 2011
+tags:           test-bill YFu
+visualworkflow: true
+---
+
+
+g1lf7kbp17hK4POdyaCA HPE9xgyTXrIgFA gMTsMJjsCrGu3KdcuJeKQPT6s6ZDFqrvvdrHb3U6333cAPjWu72VWSlyHuoc 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like dqUfIwMIHDvn.

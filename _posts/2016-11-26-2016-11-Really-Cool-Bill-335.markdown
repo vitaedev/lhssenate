@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-11 Really Cool Bill 335
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn November  7, 2011
+tags:           test-bill BHj
+visualworkflow: true
+---
+
+
+E5p6uaEZoG5Yot3Vz6LS mmbJWCEdYNyWLf 0nrRdP7yYLZYtNajpGWXixbt0Oxx2T7WWwXaIX8VmWL0J5eIxeC5UlHYqPcn 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like lhcKJvzUNMKh.

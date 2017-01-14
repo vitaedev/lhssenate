@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-11 Really Cool Bill 320
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn November  7, 2011
+tags:           test-bill WDI
+visualworkflow: true
+---
+
+
+sRdARhwO2SSX0UYNAJGs Wx9yl2QMWvCKpU k7RrrzIzRnKKXfbu33ymifu231ZKDH6rwNlVTfa6SD97XFVWMCAtjtXI3DKH 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like HJutSkAUpvFF.

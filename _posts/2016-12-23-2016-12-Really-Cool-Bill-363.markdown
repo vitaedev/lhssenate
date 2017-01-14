@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-12 Really Cool Bill 363
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn December  7, 2011
+tags:           test-bill JtV
+visualworkflow: true
+---
+
+
+Au5NLjJDghaKhXAUCbha 9bp44Ivl2xTqLH DDbjP7iW5wekKYooK0JqI05nuyMSv0nWAPUIjNiCYObnJoVnv5m3ehBbrEQd 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like EydNVZhyZndg.

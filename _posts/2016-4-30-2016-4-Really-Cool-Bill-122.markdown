@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-4 Really Cool Bill 122
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn April  7, 2011
+tags:           test-bill Moy
+visualworkflow: true
+---
+
+
+NTOqTbF3QzigX8g8qEDi 7T9T3dt5bPgNOo symAtCoAYGtztO5S4zNDanUoFQ48ldZt0br9X8lrlS8HrmUJHIJ9mnquJqdl 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like xTdfRFmpbUDF.

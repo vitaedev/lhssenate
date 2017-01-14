@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-2 Really Cool Bill 42
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn February  7, 2011
+tags:           test-bill QBi
+visualworkflow: true
+---
+
+
+KVWBjE9ibUqdeB9pMP4O jIv8T80VZP0PHr WuNXL0yNrk1UeB7fpPXUbKSUs5GEM21WZWl8NkGSDbR38j53BuwqDRBEa8Br 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like JgSZXYJfqSFM.

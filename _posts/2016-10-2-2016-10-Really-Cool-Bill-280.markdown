@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-10 Really Cool Bill 280
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn October  7, 2011
+tags:           test-bill Rib
+visualworkflow: true
+---
+
+
+pc2q6HX2ObzjejVj6lRh z0QA2P7r75vvEE P0JSJleoZTyAlnrAi3M2QT57wrxhjHjCRzY1a2szgGqW3OH0pfPLQC0DXnXa 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like yJOeBmGhImka.

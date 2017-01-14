@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-9 Really Cool Bill 255
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn September  7, 2011
+tags:           test-bill Pcg
+visualworkflow: true
+---
+
+
+UILir4ZR5F6zH1kiRYpR NZnZQjiWJXV9pY fXP0scBuPOHImZV2gyVbWMp9Hn3ruNnRB6wO5BCD7Oto60q0yMCRFmXAzUyo 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like PUzXbBTRpTJt.

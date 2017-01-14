@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-5 Really Cool Bill 153
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn May  7, 2011
+tags:           test-bill MrV
+visualworkflow: true
+---
+
+
+tlDBbIPp1PtMybHQNhcn We4BaYT5mYucYC RwXzTQRDIOzepQqaJETAjVUDudAX1fn0AMuk6dlvw8gUEpovLLNUb6qaFC2R 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like RezdqtrXtSgl.

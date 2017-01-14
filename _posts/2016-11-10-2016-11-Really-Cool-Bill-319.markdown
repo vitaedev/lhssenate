@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-11 Really Cool Bill 319
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn November  7, 2011
+tags:           test-bill ApQ
+visualworkflow: true
+---
+
+
+i4fLdbmT33yXK5R1Z3q5 XZo5bNtJ2LtmZW wjBaLoYsviocceajXFDiSepw7R1Ihn4eVvEdpK8P5PxPUqQ07Vry4HN1nb9q 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like jJJixzidOiqJ.

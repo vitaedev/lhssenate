@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-12 Really Cool Bill 359
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn December  7, 2011
+tags:           test-bill UpN
+visualworkflow: true
+---
+
+
+w3YQO2xm1mRQ9lae1kju htHQ7y8PA0EiBs i0HMLD7Sbeq1ZimGipGlpJHAsfDEbwc5bQTPqZEnlv6g4DxTHSvzgaDQdI0G 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like HHiAoQgXRCuE.

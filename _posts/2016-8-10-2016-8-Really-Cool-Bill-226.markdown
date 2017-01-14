@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-8 Really Cool Bill 226
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn August  7, 2011
+tags:           test-bill HIS
+visualworkflow: true
+---
+
+
+ei5yjVzy0bRIX8UOUNZs G3x7SeXXIYHjTB HsVONRqCBybEPicORbQqv4BuMQbRWEyh73oRCnlExdhzuwBHDCK85mQw2dMx 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like VbJzjHoEqBrm.

@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-10 Really Cool Bill 287
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn October  7, 2011
+tags:           test-bill uTe
+visualworkflow: true
+---
+
+
+0b0pvAs20ZNCU2RdmZmx aAD5V2p7dB2VQ4 plL9hKb5tKdrXVbfHiIBZqv5lNIY9fssTQPl9Es5yRFmTGhknUtYzZRSGix8 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like vaUUbtFcfRGY.

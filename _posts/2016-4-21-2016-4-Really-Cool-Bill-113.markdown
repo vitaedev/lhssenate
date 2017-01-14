@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-4 Really Cool Bill 113
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn April  7, 2011
+tags:           test-bill jyd
+visualworkflow: true
+---
+
+
+CUc3buXAAUpIqwhb6Chc Cm6lFa6C9vI7Md 0Ov23nyDrJiU0osKiLPAxEFS6ViFJ3gUWiAUXDouHgN9RfjozNc7RMQDq4M6 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like mtcfletooDhe.

@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-11 Really Cool Bill 338
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn November  7, 2011
+tags:           test-bill lar
+visualworkflow: true
+---
+
+
+RfjfWxHHJGz767E3FIGN S3ADyKzfwHOej8 ZUi6Oqv8XEfPQfLXN1WrNCdXqtxeTPwrGdZYdRc0B2JvpjZiSOmoSjDdiHGa 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like hzUMdBHfpXfZ.

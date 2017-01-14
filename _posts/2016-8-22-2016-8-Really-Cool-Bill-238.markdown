@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-8 Really Cool Bill 238
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn August  7, 2011
+tags:           test-bill YUx
+visualworkflow: true
+---
+
+
+bNY8UpSHlTTxskaMK2jT 2e73PnyYq1ozt0 glGOV97Xg14CkxSok5O9E5OL2W2LvyxCKg3ORWkhdzyZ0383WAirExLYzT71 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like tbPjoaRAzBRy.

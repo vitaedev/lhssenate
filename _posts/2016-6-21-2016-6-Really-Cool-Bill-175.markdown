@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-6 Really Cool Bill 175
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn June  7, 2011
+tags:           test-bill Mfu
+visualworkflow: true
+---
+
+
+nx5H1o8BnJpACYYm1eLq dankJwZUK7wJeg J7yNJWZGGjWf0MxF5as0W6c3g1KIhniLVjvsz5lrBFKvsmyO81OUatAPnBZJ 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like WuBKIuUMLNBA.

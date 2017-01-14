@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-12 Really Cool Bill 351
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn December  7, 2011
+tags:           test-bill ilN
+visualworkflow: true
+---
+
+
+ZZTd96uV7QLlRmBCrM1a bZvxgcFkNLn8yM fPDvYn5IFZGww9SNQ7dKhVHYYhBkV3NanlsgTXjDHa9guRSQlcuhnwezX2Tb 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like wWNJTlgGeyjH.

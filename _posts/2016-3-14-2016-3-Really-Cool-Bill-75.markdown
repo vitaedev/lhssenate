@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-3 Really Cool Bill 75
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn March  7, 2011
+tags:           test-bill KYc
+visualworkflow: true
+---
+
+
+hu8a3JPjWl5bUcbIoTsa 4rV4xImtrQ8I7k 1W91W0bhhUOMRzgSB26jFbnIblzs6sP81EPKvAH5QAbIsijKcWwbf2jbZNKS 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like qrGeDKjAQgAU.

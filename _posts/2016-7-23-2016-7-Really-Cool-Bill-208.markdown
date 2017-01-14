@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-7 Really Cool Bill 208
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn July  7, 2011
+tags:           test-bill WYV
+visualworkflow: true
+---
+
+
+5zDDUWowfJL2VGD5Pjvj ubKLfhfHQoGlKJ m42hCUE1kqp5fFgvCj0E4K7WkuiqfSbnEA9AbQLTXIbvtXDbmbJUmAWPCo7v 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like oJkltVPUYhxi.

@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-5 Really Cool Bill 125
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn May  7, 2011
+tags:           test-bill vDr
+visualworkflow: true
+---
+
+
+kJrl9KuXs3J83o9l2mOh QkEooR3O6g44oo 92NQmzhHu5R631DBNdhpLX2B0RayfwwFuIMHAAUub5s3Jm28QkCZR1FuHysG 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like tSbOjDtDrIvB.

@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-7 Really Cool Bill 203
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn July  7, 2011
+tags:           test-bill LOZ
+visualworkflow: true
+---
+
+
+ccxIDGU2uuX19M1nrDRV V1U4tG9d8S0d2G 0l00MveLifaBhC24KAlFiJvpHGdVEgcZ29nq7Y2pf3tO157m9Q4NDEcJ7BwX 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like wIrEgoUgcUMB.

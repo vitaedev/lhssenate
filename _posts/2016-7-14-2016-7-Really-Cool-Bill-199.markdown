@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-7 Really Cool Bill 199
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn July  7, 2011
+tags:           test-bill irl
+visualworkflow: true
+---
+
+
+g5mwjcEpEiRMVaQSgYQY kKqu1NJWXLjA9d 52NoHx7a2pcS8AvKJYr5feNGf1J6LZFQKoH3SMtWNNhLDxFJ87vyExrZOM1K 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like cOULMSQXbesm.

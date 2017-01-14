@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-1 Really Cool Bill 30
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn January  7, 2011
+tags:           test-bill VIw
+visualworkflow: true
+---
+
+
+bA8H9K0CmZinYIXNrZPW 7GvNwwS8CoQtqh d3ZCf42z0l6ydhgke1jhODN7C3to8Hu2QyW5bfPCjhjXdRlwlRCuecs6gtDt 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like MZEKsnUiXbhF.

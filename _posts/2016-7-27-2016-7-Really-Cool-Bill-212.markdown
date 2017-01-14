@@ -1,0 +1,21 @@
+---
+layout:         bill
+category:       bills
+title:          2016-7 Really Cool Bill 212
+year:           2016-2017
+summary:        Blargh summary summary simmary.
+sponsors:       LHS Student-Faculty Senate
+passed:         pn July  7, 2011
+tags:           test-bill zVI
+visualworkflow: true
+---
+
+
+BBSj4xEdmp5yjoBZt7lf nfa1UirY2gNdyq QRon523LGdQmOHN8hRxmovSnatT2EFx2IKPZ6LLXMxmF9WBdGGo5FBMLlQ2S 
+
+
+
+
+Rationale
+---------
+The Senate currently feels like YysOuwrazLTo.
