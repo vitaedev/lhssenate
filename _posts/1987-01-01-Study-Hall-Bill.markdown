@@ -1,12 +1,12 @@
 ---  
 layout:         bill
 category:       bills
-title:          1987-1 Open Campus Bill
+title:          1987-1 Study Hall Bill
 year:           1987-1988
 summary:        
-sponsors:       LHS Senate
-passed:         in 2011
-tags:           open-campus community-service
+sponsors:       LHS Student-Faculty Senate
+passed:         in 1987
+tags:           
 visualworkflow: true
 ---
 
