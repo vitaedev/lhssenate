@@ -3,7 +3,7 @@ layout:         bill
 category:       bills
 title:          Snow Day Resolution
 year:           1989-1990
-summary:        
+summary:        Decisions regarding school cancellations will be based on the latest weather information, road conditions in neighboring towns, and the Department of Public Works' assurance of cleared roads, sidewalks, and school parking lots.
 sponsors:       LHS Student-Faculty Senate
 passed:         in 1989
 tags:           
