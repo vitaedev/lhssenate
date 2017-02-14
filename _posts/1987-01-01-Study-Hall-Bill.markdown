@@ -1,7 +1,7 @@
 ---  
 layout:         bill
 category:       bills
-title:          1987-1 Study Hall Bill
+title:          Study Hall Bill
 year:           1987-1988
 summary:        
 sponsors:       LHS Student-Faculty Senate

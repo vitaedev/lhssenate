@@ -1,7 +1,7 @@
 ---  
 layout:         bill
 category:       bills
-title:          1987-1 Parliamentarian Bill
+title:          Parliamentarian Bill
 year:           1988-1989
 summary:        
 sponsors:       LHS Student-Faculty Senate

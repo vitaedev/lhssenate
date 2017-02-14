@@ -1,7 +1,7 @@
 ---  
 layout:         bill
 category:       bills
-title:          1987-3 Quadrangle Bill
+title:          Quadrangle Bill
 year:           1988-1989
 summary:        
 sponsors:       LHS Student-Faculty Senate

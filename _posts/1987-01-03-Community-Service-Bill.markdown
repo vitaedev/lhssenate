@@ -1,7 +1,7 @@
 ---  
 layout:         bill
 category:       bills
-title:          1987-3 Community Service Bill
+title:          Community Service Bill
 year:           1987-1988
 summary:        
 sponsors:       LHS Student-Faculty Senate

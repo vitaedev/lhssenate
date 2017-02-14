@@ -1,7 +1,7 @@
 ---  
 layout:         bill
 category:       bills
-title:          1987-5 Skate boarding bill
+title:          Skate boarding bill
 year:           1987-1988
 summary:        
 sponsors:       LHS Student-Faculty Senate

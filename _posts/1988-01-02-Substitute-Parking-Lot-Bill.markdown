@@ -1,7 +1,7 @@
 ---  
 layout:         bill
 category:       bills
-title:          1987-2 Substitute Parking Lot Bill
+title:          Substitute Parking Lot Bill
 year:           1988-1989
 summary:        
 sponsors:       LHS Student-Faculty Senate

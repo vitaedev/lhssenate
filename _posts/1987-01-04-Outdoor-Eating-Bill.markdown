@@ -1,7 +1,7 @@
 ---  
 layout:         bill
 category:       bills
-title:          1987-4 Outdoor Eating Bill
+title:          Outdoor Eating Bill
 year:           1987-1988
 summary:        
 sponsors:       LHS Student-Faculty Senate
