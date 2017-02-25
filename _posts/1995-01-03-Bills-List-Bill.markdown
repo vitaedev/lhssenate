@@ -1,7 +1,7 @@
 ---  
 layout:         bill
 category:       bills
-title:          "Bills List" Bill
+title:          Bills List Bill
 year:           1995-1996
 summary:        
 sponsors:       LHS Student-Faculty Senate
